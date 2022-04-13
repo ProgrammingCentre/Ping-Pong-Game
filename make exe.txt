@@ -1,0 +1,5 @@
+to make exe write following comand in command prompt 
+->
+pip install pyistaller
+->
+pyinstaller --onefile -w filename.py
